@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Gtv
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TSports
-http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Bangla
 https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a994bb5a55fc&e=.m3u8&type=aosm3u
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Star Jalsha VIP
