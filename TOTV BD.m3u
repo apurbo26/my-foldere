@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Gtv
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TSports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Bangla
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a994bb5a55fc&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Star Jalsha VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=88e557a35fef&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Somoy TV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=b8cc9e2596b2&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN 2 HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=abc6677968ef&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Jalsha Movies VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=23bff287b2d9&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN 5 HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=fd6de8bd1666&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONYS PORTS TEN 1 HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=43dcec1011e7&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SonyAat
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e96cb72a3787&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ColorsBangla
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=cb074ae82cd0&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN3HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=edc6a07e4754&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN1
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4f88714edf64&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN2
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0100c4372222&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN3
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=584b0a99bf4a&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SPORTS TEN5
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=f584cc350381&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Euro Sport HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=258468998307&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Euro Sport
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=5221aff96f3c&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Ekattor TV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=d05d3993665d&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",IndependentTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=53c73d1268c3&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Channel24
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=b76958c4037e&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",DBCNews
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=118dca9ef6ef&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ATNNews
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e05cb33b3c3b&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NEWS24
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=aafbbc83b326&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",JamunaTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=21e3f3e5ef49&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SATV HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=b46b15cff847&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Global TV HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=2614e4297bdb&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",RTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=ad2d8d5dcc36&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=ab8f5b2fee47&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Bangla vision
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=133495806584&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ATN Bangla
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=72236e9ac8d0&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Ananda TV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a08da2fa07b5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Boishakhi TV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=fb29da2ac4bd&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Channel 9
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=64c7b9e08d17&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",MohonaTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=870d28eb9f58&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",MYTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0a48642721c7&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",BTVHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=08a083277da3&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",BijoyTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=fadeb9d2e30b&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",AsianTVHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a28a3f18e5b5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",BanglaTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e899095f3263&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NagorikTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=2d9305797525&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NexusTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=2152917b80f2&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SangsadTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1a89f335382a&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",BTV World
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1f8dba1d7e05&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",EkusheyTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=c7ef431db078&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",BTV Chattogram
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1245d28c0e50&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Star Gold VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=dc41c4d6f916&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Star Plus VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e767f10e635a&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",StarBharatVIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1a89bf385512&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY MAXHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=41559a92a8db&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY MAX
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=09ec68b3721f&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY ENTERTAINMENT TELEVISIONHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=b2ef8da10007&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY ENTERTAINMENT TELEVISION
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=2bec2112b890&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SABHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0083604d0756&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY SAB
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a3e3cfc4b32f&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY MAX2
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=36767e3b0bda&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY WAH
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=773e835974e1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Sony Pal
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=8442b2b7069b&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ZeeTV HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=9905083432a8&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Anmol
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=dc488b1502f5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Colors
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=5d5083de1957&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Colors Rishtey
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=c1d9578b17e5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",&TVHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a6b5f6130cc5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",&PicturesHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1d8f06362c1e&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Nick
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=fd1444ce2617&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",CartoonNetworkHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=206c4fa8e760&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",CartoonNetwork
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=8be5ec5d5d7c&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONYYAY
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=edf7ba617dc5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Sonic
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=95feee06d6b9&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",DiscoveryKids
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=1fe9cf550c24&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NickJr
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4a6ddf63ff93&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Pogo
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=38060f0d4077&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Bangla Cinema
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=3c1cc31a847f&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Jalsha MoviesVIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=23bff287b2d9&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Colors Bangla Cinema
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=18d59b7df44f&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Cinema HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=d581dd66e556&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",B4U Movies
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4ce560bcdf91&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ZeeAction
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=72a0803cf563&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Bollywood
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=2ea95a9da2d7&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY PIXHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=65f4f4c8b5c9&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY PIX
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=5032fb03124c&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",IFilm English
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=f7c3ee708437&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Lotus Macau
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=c96bf874699b&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",QuranTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=9d6fe70dd114&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SunnahTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=22a0974e7de1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ALJazeera
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=fc59f840d511&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",CNNVIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=85ccda8c4fc5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",DW
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0bdfe0d8e147&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee News
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=9415e3f50641&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",RTR Planeta
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0f16c4620f6b&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Euro News VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=b4a823440e43&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Arirang TV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=64c050fc3bb4&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Channel NewsAsia
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=dcf36b5d0907&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee Business VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=388d751edfd1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",KBS World24
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=8d755ca049e2&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TV5Monde
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=d0a8d0bc62f1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Aljazeera Arabic
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4a1aaa86f91e&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NHK World-Japan
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=05f964cd0d46&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",France24
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4871d7079f03&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",RT
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=705615fd3aa1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TRTWorld
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=9681ba036304&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",ZOOM
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=66f273bda1c3&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",B4U Music
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=6f73e4079aa2&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",MTV Beats HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=20ae0a50227f&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",MTV India
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=915b9492fc1d&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zing
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4effcf0f2452&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",VH1HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0bd098fc207a&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Animal PlanetHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=f70ef199f41d&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NGCVIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e31628e8fc53&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Anima lPlanet
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=52d1df2fdb80&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",DiscoveryHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=77e72f2ba472&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",NGC Wild VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=0a5e49b7132d&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Discovery
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a1c4e01414e7&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Discovery Science
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=591ea81b1aba&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Fox Life VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=4e0d46e917a8&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Discovery Asia
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=113d44e14664&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Discovery Turbo
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a051de5ade20&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Investigation DiscoveryHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=6789650f5629&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Investigation Discovery
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=05715523849a&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TLCHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=090bf33a56cb&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",TLC
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e12a84713a40&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",HISTORYTV
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=d3267c8c71b1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY BBCEARTH HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=a19eef7de250&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",SONY BBCE ARTH
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=524807772441&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Tech Storm VIP
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=09dca6e9dcd5&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Zee CafE HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=359af3461e39&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",InfinityHD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=083e566383b1&e=.m3u8&type=aosm3u
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="TOTVBD",Comedy Central HD
+https://friendshiplive2023.xyz/bdtoff/tango/live.php?id=e94e19b957dd&e=.m3u8&type=aosm3u
