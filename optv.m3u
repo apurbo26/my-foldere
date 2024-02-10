@@ -1,0 +1,127 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594961.png"group-title="ApTv Live Sports",BPL 2024 Live (BDIX)
+http://103.142.80.22:8080/Channel-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594961.png"group-title="ApTv Live Sports",BPL 2024 Live (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/tsports.php?url=https://live-cdn.tsports.com/live-02/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594962.png"group-title="ApTv Live Sports",BPL 2024 Live (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/Blessbit-Youtube_93/Blessbit-Youtube_93/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594962.png"group-title="ApTv Live Sports",BPL 2024 Live (Auto)
+https://d75dqofg5kmfkbdtv-cloudfront.xyz:443/Tataplay/TTPL.php/https://dai.fancode.com/primary/90970_english_hls_4492ta-no/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055229313.png"group-title="ApTv Live Sports",U19 World Cup Live (BDIX)
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055229313.png"group-title="ApTv Live Sports",U19 World Cup Live (Auto)
+http://195.181.168.21:80/CR_Espn_Caribbean/index.m3u8?token=test|User-Agent:Lavf53.32.100
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1054270242.png"group-title="ApTv Live Sports",One Family Cup Live (Auto)
+https://d75dqofg5kmfkbdtv-cloudfront.xyz:443/Tataplay/TTPL.php/https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd|drm-type:2|drm-url:https://d75dqofg5kmfkbdtv-cloudfront.xyz:443/Clearkey/Star_Sports_HD.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b2f62d20-77a0-11ee-b6fc-2559a841c518/5562059/974949184.png"group-title="ApTv Live Sports",India Vs England Test Series Live English (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_indvseng_test02day04050224/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b2f62d20-77a0-11ee-b6fc-2559a841c518/5562059/974949184.png"group-title="ApTv Live Sports",India Vs England Test Series Live Hindi (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100319/uhd_akamai_ctv_avc_hin_indvseng_test02day04050224/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/13b63e10-ad16-11ee-8c7d-dfff00fe4857/5990174/1041152128.png"group-title="ApTv Live Sports",SA T20 2024  Match 1 Live (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_080224/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/13b63e10-ad16-11ee-8c7d-dfff00fe4857/5990174/1041152128.png"group-title="ApTv Live Sports",SA T20 2024 Match 2 Live (Auto)
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m2_030224/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epfkvD8.jpg"group-title="ApTv Live Sports",SOUTH AFRICA WOMEN VS AUSTRALIA WOMEN
+http://bdtvlivemacpanel2023.xyz/roponmac/live2/eagle/23288/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055632323.png"group-title="ApTv Live Sports",ILT20 2024 Live (Auto)
+https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4b9a48e0-b66f-11ee-84e2-59b76b47e88b/6073658/1055632323.png"group-title="ApTv Live Sports",ILT20 2024 Live (Auto)
+https://pubads.g.doubleclick.net/ssai/event/xYKVDAMWTQykwzEAWr3luQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1079038294.png"group-title="ApTv Live Sports",Marsh One Day Cup Live (Auto)
+https://bcovlive-a.akamaihd.net/ee99555ade8844849591ef369a2d4119/ap-southeast-2/5833133821001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1062113138.png"group-title="ApTv Live Sports",Marsh One Day Cup Live (Auto)
+https://bcovlive-a.akamaihd.net/8347a3d178144524aeffb86647083fee/ap-southeast-2/5833133821001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1062113147.png"group-title="ApTv Live Sports",WNCL Live 2023 (Auto)
+https://bcovlive-a.akamaihd.net/ee99555ade8844849591ef369a2d4119/ap-southeast-2/5833133821001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1062113149.png"group-title="ApTv Live Sports",The Ford Trophy Match Live (Auto)
+http://bdtvlivemacpanel2023.xyz/roponmac/livetube.php?id=@nzctv?token=01880292621&type=aosm3u|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1062113154.png"group-title="ApTv Live Sports",Nepal Vs Canada Live (Auto)
+https://d75dqofg5kmfkbdtv-cloudfront.xyz:443/Tataplay/TTPL.php/https://dai.fancode.com/primary/93873_english_hls_5439adfreeta-di/index.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594972.webp"group-title="ApTv Live Sports",Australia Vs West Indies Match Live (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/La-Liga-Live_47/La-Liga-Live_47/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/5c4757c0-67b6-11ee-944a-af8ada2a2e58/5439822/955674184.png"group-title="ApTv Live Sports",Srilanka Vs Afghanistan Live (Auto)
+https://dai.google.com/ssai/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2ac34a40-485c-11ee-9b93-e18d4b5258b3/5227652/919794253.png"group-title="ApTv Live Sports",New Zealand  Vs South Africa Live (Auto)
+http://pal.alphatx.me:80/play/live.ts?mac=00:1A:79:55:55:EE&stream=1182155&extension=ts&play_token=test|User-Agent:stagefright/1.2 (Linux;Android 13)
+#EXTINF:-1 tvg-logo=" like Gecko) Version/4.0 Chrome/117.0.0.0 Safari/537.36"group-title="ApTv Live Sports",Vijay Hazare Trophy Live (Auto)
+https://mhdtv.co.in/jio/stream.php?id=1998&e=.m3u8&type=aosm3u|Referer: https://mhdtv.co.in|User-Agent:Mozilla/5.0 (Linux; Android 13; 21051182G Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML\
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/d1b04c30-ba7d-11ee-9bc2-e96a5ae79f11/6108425/1069407259.png"group-title="ApTv Live Sports",CONMEBOL Pre-Olympic Tournament Live
+http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1045594973.png"group-title="ApTv Live Sports",AFC Asian Cup Live (Auto)
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/afc-cup.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fd9cc6a0-b030-11ee-8ac2-9d1af5ada6f5/6012189/1049428693.png"group-title="ApTv Live Sports",Africa Cup of Nations Live (Auto)
+https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/zigg_sport.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",PPV Sports 1 (Auto)
+https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB&type=aosm3u|Referer:https://livevoot.co.in/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",PPV Sports 2 (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/Under-19-World-Cup_42/Under-19-World-Cup_42/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",PPV Sports 3 (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/English-Premier-League_46/English-Premier-League_46/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",PPV Sports 4 (Auto)
+https://bdix.friendshiplive2023.xyz/bdsports/rabbit/rabi.php?m3u8=https://streams.rabbitholebd.com/live/Cricket-Live_88/Cricket-Live_88/index.m3u8&type=aosm3u
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ddcb7e20-fcd8-11ed-baff-3feaff677fba/4819140/853812109.png"group-title="ApTv Live Sports",Major League Soccer Live
+http://bdtvlivemacpanel2023.xyz/roponmac/live2/jbktv/42190/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ddcb7e20-fcd8-11ed-baff-3feaff677fba/4819140/853812109.png"group-title="ApTv Live Sports",Major League Soccer Live
+http://bdtvlivemacpanel2023.xyz/roponmac/live/crown/21162/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/882769716.png"group-title="ApTv Live Sports",English Premier League Live (Auto)
+http://bdtvlivemacpanel2023.xyz/roponmac/live2/eagle/12726/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/882769716.png"group-title="ApTv Live Sports",English Premier League Live (Auto)
+http://bdtvlivemacpanel2023.xyz/roponmac/live2/eagle/12727/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/882769716.png"group-title="ApTv Live Sports",English Premier League Live (Auto)
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/sky_prem.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/901368774.png"group-title="ApTv Live Sports",English Premier League Live (Auto)
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/play1.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/901368774.png"group-title="ApTv Live Sports",English Premier League Live (Auto)
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/play2.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/902055466.png"group-title="ApTv Live Sports",La Liga Live Match (Auto)
+http://bdtvlivemacpanel2023.xyz/roponmac/live2/eagle/45390/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/902055466.png"group-title="ApTv Live Sports",La Liga Live Match 1 HD (Auto)
+https://csc-ptn-edge01.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/espn-ar.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/902055466.png"group-title="ApTv Live Sports",La Liga Live Match 2 HD (Auto)
+https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000095_019371/manifest.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/zigg_voet.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/902055466.png"group-title="ApTv Live Sports",La Liga Live Match 3 HD (Auto)
+https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000094_019321/manifest.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/zigg_select.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/8d549350-9714-11ee-9694-6ba93ab6ed28/5776582/1012558129.png"group-title="ApTv Live Sports",Serie A Match Live (Auto)
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/bein1.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/8d549350-9714-11ee-9694-6ba93ab6ed28/5776582/1012558128.png"group-title="ApTv Live Sports",Serie A Match Live (Auto)
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/bein2.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/8d549350-9714-11ee-9694-6ba93ab6ed28/5776582/1012558127.png"group-title="ApTv Live Sports",Serie A Match Live (Auto)
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/bein3.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/878700722.png"group-title="ApTv Live Sports",Argentina Premier Division Live (Auto)
+https://edge-live13-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/tyc-ar.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b531b870-1c90-11ee-9a0a-e98ff2a9cbb9/4971658/878700723.png"group-title="ApTv Live Sports",Argentina Premier Division Live (Auto)
+https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/espn2-ar.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ec79e3d0-39a6-11ee-a29d-bd3edcc1ba62/5122776/903182623.svg"group-title="ApTv Live Sports",Saudi Pro League Live (Auto)
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/ssc1.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ec79e3d0-39a6-11ee-a29d-bd3edcc1ba62/5122776/903182623.svg"group-title="ApTv Live Sports",Saudi Pro League Live (Auto)
+https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2ac34a40-485c-11ee-9b93-e18d4b5258b3/5227652/919794242.png"group-title="ApTv Live Sports",UEFA Champions League Live (Match Time)
+https://dai.google.com/linear/hls/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2ac34a40-485c-11ee-9b93-e18d4b5258b3/5227652/919794242.png"group-title="ApTv Live Sports",UEFA Champions League Live (Match Time)
+https://dai.google.com/linear/hls/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2ac34a40-485c-11ee-9b93-e18d4b5258b3/5227652/919794242.png"group-title="ApTv Live Sports",UEFA Champions League Live (Match Time)
+https://dai.google.com/linear/hls/event/wN0bVs8wS9-yv6vL9G-tGQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2ac34a40-485c-11ee-9b93-e18d4b5258b3/5227652/919794242.png"group-title="ApTv Live Sports",UEFA Champions League Live (Match Time)
+https://pubads.g.doubleclick.net/ssai/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",Bundesliga Live
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+#EXTINF:-1 tvg-logo=" like Gecko) Version/4.0 Chrome/119.0.6045.193 Safari/537.36"group-title="ApTv Live Sports",Bundesliga Live
+https://247c.mrgamingstreams.com/mrgamingabc.m3u8|User-Agent:Mozilla/5.0 (Linux; Android 13; 21051182G Build/TKQ1.221013.002; wv) AppleWebKit/537.36 (KHTML\
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L824DpTM/logo6-24-162253.png"group-title="ApTv Live Sports",Bundesliga Live
+http://bdtvlivemacpanel2023.xyz/7star/play/1685/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694764.png"group-title="ApTv Live Sports",Formula F1 HD
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd|drm-type:2|drm-url:https://bdix.friendshiplive2023.xyz/Clearkey/zigg_f1.php|User-Agent:KAIOS
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694762.png"group-title="ApTv Live Sports",Formula F1 HD (backup)
+http://bdtvlivemacpanel2023.xyz/roponmac/live/static/423/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/72f9bee0-c527-11ed-958d-1beaa6e11b8e/4487890/799233118.png"group-title="ApTv Live Sports",Moto GP HD
+http://bdtvlivemacpanel2023.xyz/7star/play/48962/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694765.png"group-title="ApTv Live Sports",WWE HD
+http://bdtvlivemacpanel2023.xyz/7star/play/22911/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694766.png"group-title="ApTv Live Sports",Golf Live
+http://bdtvlivemacpanel2023.xyz/roponmac/live/static/16109/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694767.png"group-title="ApTv Live Sports",Tennis Live
+http://bdtvlivemacpanel2023.xyz/roponmac/live/static/16110/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/0a170ea0-243c-11ed-b2ac-65b97f7f2e80/3541065/623694768.png"group-title="ApTv Live Sports",Rugby Live
+http://bdtvlivemacpanel2023.xyz/roponmac/live/static/16114/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apurbo26/iptv/07138e4c46d063351644b3f53d6ffbbb8563a513/20240203_232250_0000.png"group-title="ApTv Live Sports",NBA HD
+http://bdtvlivemacpanel2023.xyz/7star/play/56523/&e=.m3u8?token=01880292621|Referer:http://v2live.xyz|User-Agent:indbd|Cookie:empty|Authentication:987500024250
